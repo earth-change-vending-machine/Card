@@ -1,2 +1,2 @@
 # Card
-Card💳 is liquid access to a set of real goods and services.
+Card🪪 is liquid access to all* Ticket🎫 types available from the ECVM.
